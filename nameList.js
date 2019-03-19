@@ -1,4 +1,4 @@
-function list(names){
+function list(names){ //names as a hash list[{name:john},{name:Dan}]
   let nameList = '';
   
   for (let x of names) {
